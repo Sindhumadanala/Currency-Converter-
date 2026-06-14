@@ -18,5 +18,5 @@
 
 **MOBILE VIEW**
 
-<img width="467" height="827" alt="Image" src="https://github.com/user-attachments/assets/a30cb8c4-058f-4e69-b209-fef5f97dad2e" />
-
+<p align='center'><img width="467" height="827" alt="Image" src="https://github.com/user-attachments/assets/a30cb8c4-058f-4e69-b209-fef5f97dad2e" />
+</p>
